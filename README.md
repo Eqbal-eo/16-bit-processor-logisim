@@ -25,7 +25,7 @@ Datapath Overview
 
 ---
 
-##Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Processor Specifications](#-processor-specifications)
