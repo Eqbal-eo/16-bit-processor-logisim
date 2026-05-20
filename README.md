@@ -8,7 +8,7 @@
 [![Status](https://img.shields.io/badge/Status-Complete%20✓-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-Academic-purple?style=for-the-badge)]()
 
-**A fully functional 16-bit processor datapath designed and simulated in Logisim Evolution.**  
+**A fully functional 16-bit processor datapath designed and simulated in Logisim Generic 2.7.1.**  
 Supports arithmetic, logical, memory, and branch instructions — with a working assembly program verified in simulation.
 
 ---
