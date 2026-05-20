@@ -13,6 +13,7 @@
 ;    X3 — Result counter (elements ≠ 5)
 ;    X4 — Current element (loaded from RAM)
 ;    X6 — Constant 5 (comparison value)
+;    x7 _ 0000
 ;
 ;  Memory Layout:
 ;    RAM[0x00..0x07] — Input array (8 elements)
