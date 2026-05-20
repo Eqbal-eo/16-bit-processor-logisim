@@ -19,7 +19,7 @@ Supports arithmetic, logical, memory, and branch instructions — with a working
      It will appear right here as the hero image of your README. -->
 
 Datapath Overview
-<img width="902" height="613" alt="image" src="https://github.com/user-attachments/assets/085fc89c-a75a-4fa1-8afe-60c8c51bb9c1" />
+<img width="902" height="613" alt="Screenshot 2026-05-20 153441" src="https://github.com/user-attachments/assets/6e18c776-90d0-4182-80ea-5828a32fe229" />
 
 </div>
 
@@ -321,7 +321,7 @@ The processor correctly identified **5 elements** not equal to 5.
 ---
 Simulation Result
 
-<img width="532" height="178" alt="image" src="https://github.com/user-attachments/assets/1169cc67-e2c2-4bc0-91bb-c4887d1f0704" />
+<img width="532" height="178" alt="Screenshot 2026-05-20 151746" src="https://github.com/user-attachments/assets/614bfa35-b7d8-4f53-a4a0-850772456684" />
 
 ---
 
